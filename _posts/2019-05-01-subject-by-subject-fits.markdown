@@ -16,7 +16,7 @@ To those in which the reaction times for target-present and target-absent trials
 [Reward given for correct absent responses, set of 8 stimuli](/assets/subject_5_exp2abs_single_N_8_modelfit.html)
 
 To those in which subject reaction time distributions are spread out over the course of the entire allowable time for the trial:  
-[Reward given for correct absent responses, set of 12 stimuli](/assets/subject_6_exp2abs_single_N_12_modelfit.html)
+[Reward given for correct absent responses, set of 12 stimuli](/assets/subject_6_exp2abs_single_N_16_modelfit.html)
 
 **It should be noted that while there is some jaggedness on the curves describing the simulated reaction time distributions, these are computational artefacts that arise from backwards induction. They can be removed provided enough time is given for the simulation to run, but were not for these fits for the sake of expedience.**
 
